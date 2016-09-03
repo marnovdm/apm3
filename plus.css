@@ -1,0 +1,29 @@
+body {
+font-size: 12px !important;
+line-height: 1 !important;
+height: 0 !important;
+padding: 0 !important;
+}
+.table {
+font-size: 12px !important;
+line-height: 1 !important;
+height: 0 !important;
+padding: 0 !important;
+}
+
+table {
+font-size: 12px !important;
+line-height: 1 !important;
+height: 0 !important;
+padding: 0 !important;
+}
+
+td.col {
+height: 0 !important;
+padding: 0 !important;
+}
+
+.table-actions {
+    display: none;
+    line-height: 0;
+}
